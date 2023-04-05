@@ -1,2 +1,3 @@
-# mlops-resources
+# MLOps Resources
+
 Resources for learning MLOps
